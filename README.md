@@ -20,7 +20,7 @@ Aplicação móvel: {{ page.app }}
 - Validade do selo: {{ page.validity }}
 - Estado: {{ page.status }}
 
-## Relatório {{ page.app }}
+## Relatório Bem-Me-Ker App Android
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
